@@ -5,6 +5,7 @@
     <modules>
         <module>jwt</module>
         <module>proxy</module>
+        <module>rabbitmq</module>
     </modules>
 
     <parent>
