@@ -6,6 +6,7 @@
         <module>jwt</module>
         <module>proxy</module>
         <module>rabbitmq</module>
+        <module>rabbitmq_springboot</module>
     </modules>
 
     <parent>
@@ -30,6 +31,7 @@
         <druid.version>1.2.5</druid.version>
         <mysql-connector.version>5.1.26</mysql-connector.version>
         <java-jwt.version>3.14.0</java-jwt.version>
+        <rabbitmq-version>5.9.0</rabbitmq-version>
     </properties>
 
 <dependencyManagement>
@@ -75,6 +77,13 @@
                 <artifactId>java-jwt</artifactId>
                 <version>${java-jwt.version}</version>
             </dependency>
+
+            <dependency>
+                <groupId>com.rabbitmq</groupId>
+                <artifactId>amqp-client</artifactId>
+                <version>${rabbitmq-version}</version>
+            </dependency>
+
 
         </dependencies>
 </dependencyManagement>
