@@ -9,6 +9,8 @@
         <module>rabbitmq_springboot</module>
         <module>JUC</module>
         <module>IO</module>
+        <module>DesginPattren</module>
+        <module>singleton</module>
     </modules>
 
     <parent>
