@@ -33,7 +33,7 @@
         <mybatis-plus-generator.version>3.4.1</mybatis-plus-generator.version>
         <freemarker.version>2.3.31</freemarker.version>
         <druid.version>1.2.5</druid.version>
-        <mysql-connector.version>5.1.26</mysql-connector.version>
+        <mysql-connector.version>8.0.16</mysql-connector.version>
         <java-jwt.version>3.14.0</java-jwt.version>
         <rabbitmq-version>5.9.0</rabbitmq-version>
     </properties>
