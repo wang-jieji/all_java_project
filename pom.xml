@@ -6,11 +6,9 @@
         <module>jwt</module>
         <module>proxy</module>
         <module>rabbitmq</module>
-        <module>rabbitmq_springboot</module>
         <module>JUC</module>
         <module>IO</module>
-        <module>DesginPattren</module>
-        <module>singleton</module>
+        <module>DesignPattern</module>
     </modules>
 
     <parent>
