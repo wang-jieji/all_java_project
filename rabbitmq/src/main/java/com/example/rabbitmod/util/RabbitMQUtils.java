@@ -6,7 +6,7 @@ import com.rabbitmq.client.ConnectionFactory;
 
 public class RabbitMQUtils {
 
-    private static final String  HOST = "192.168.206.133";
+    private static final String  HOST = "192.168.231.140";
     private static final int PORT = 5672 ;
     private static final String VIR_HOST = "/ems";
     private static final String USERNAME = "ems";

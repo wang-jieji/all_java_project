@@ -27,10 +27,10 @@ public class Client {
         university.add(infoEngineerCollege);
 
         // 显示大学所有信息
-        //university.print();
+        university.print();
 
         // 只显示某个学院的信息
-        infoEngineerCollege.print();
+        //infoEngineerCollege.print();
 
 
     }
