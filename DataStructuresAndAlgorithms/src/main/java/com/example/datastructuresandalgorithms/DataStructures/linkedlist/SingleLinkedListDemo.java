@@ -240,7 +240,7 @@ class SingleLinkedList {
 
     /**
      * @Author WJJ
-     * @Description 逆序输出链表
+     * @Description 逆序输出链表 用栈 不会改变链表的结构
      **/
     public void reversePrint(HeroNode head){
         if(head.next == null) {

@@ -40,17 +40,19 @@ public class CircleArrayQueueDemo {
                     try {
                         int queue = arrayQueueDemo.getQueue();
                         System.out.printf("取出的数据是%d\n", queue);
-                        break;
+
                     } catch (Exception e) {
                         System.out.println(e.getMessage());
                     }
+                    break;
                 case 'p':
                     try {
                         arrayQueueDemo.peekQueue();
-                        break;
+
                     } catch (Exception e) {
                         System.out.println(e.getMessage());
                     }
+                    break;
                 case 'e':
                     scanner.close();
                     loop = false;

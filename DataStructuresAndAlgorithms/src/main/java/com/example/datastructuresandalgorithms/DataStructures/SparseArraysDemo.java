@@ -5,7 +5,7 @@ import java.net.URLDecoder;
 import java.util.Arrays;
 
 /**
- * @Description 稀疏数组
+ * @Description 稀疏数组（记录棋盘）
  * @Author WJJ
  * @Date 2022/6/18 18:11
  **/
