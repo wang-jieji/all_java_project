@@ -3,7 +3,7 @@ package com.example.datastructuresandalgorithms.DataStructures.stack;
 import java.util.Stack;
 
 /**
- * @Description 3、栈实现综合计算器
+ * @Description 3、栈 实现 综合计算器
  * @Author WJJ
  * @Date 8/7/2022 下午10:12
  **/

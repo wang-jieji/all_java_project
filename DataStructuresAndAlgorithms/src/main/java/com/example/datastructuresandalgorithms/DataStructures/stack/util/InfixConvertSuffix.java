@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.Stack;
 
 /**
- * @Description 将中缀表示式转为后缀表达式
+ * @Description 5、将中缀表示式 转为 后缀表达式
  * @Author WJJ
  * @Date 18/7/2022 下午9:08
  **/
