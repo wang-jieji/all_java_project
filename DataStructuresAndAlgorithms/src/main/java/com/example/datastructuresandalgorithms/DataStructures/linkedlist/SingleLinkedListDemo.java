@@ -72,10 +72,10 @@ class SingleLinkedList {
             if (temp.next == null) {
                 break;
             }
-            //如果不是最后一个节点，将temp指针后移
+            //如果不是最后一个节点，将指针后移
             temp = temp.next;
         }
-        //退出循环后，temp就指向了链表的最后一个节点
+        //退出循环后，指针就指向了链表的最后一个节点
         // 将最后一个节点的next 指向 新的节点
         temp.next = node;
     }

@@ -1,7 +1,8 @@
 package com.example.datastructuresandalgorithms.DataStructures.linkedlist;
 
 /**
- * @Description 环形链表 解决约瑟夫问题
+ * @Description 环形链表
+ * 解决约瑟夫问题 从任意一个节点 startNo开始，按照指定数字 countNum 取出节点，并从取出节点的下一位开始重新循环,直到只剩下一个节点为止
  * @Author WJJ
  * @Date 7/7/2022 下午6:13
  **/
